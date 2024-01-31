@@ -1,0 +1,22 @@
+export PATH="/path/to/your/python/bin:$PATH
+Ctrl+K Ctrl+C Add line comment
+Ctrl+K Ctrl+U R uncomment a line
+Ctrl+K Crtl+T to change the color theme
+Crtl+X Crtl+V to cut and paste a line
+Home key beggining
+End key of a line
+shift+f3 to find next period
+Ctrl+P Go to File
+Ctrl+G Go to Line
+Ctrl+] / [ Indent/outdent line
+Ctrl+Shift+K Delete line
+Alt+ ↑ / ↓ Move line up/down
+Ctrl+U Undo last cursor operation
+Alt+click to create multiple cursors
+F2 to rename symbol
+Ctrl+K Ctrl+X Trim trailing whitespace
+F12 Go to Definition
+Shift+F12 Show References
+Crtl+F5 to start debugging
+Ctrl+` Show integrated terminal
+F9 Toggle breakpoint
